@@ -1,0 +1,1023 @@
+[
+ {
+  "id": "e001",
+  "type": "count",
+  "theme": "night",
+  "icon": "2b50",
+  "n": 6,
+  "title": "Let's Count Stars!",
+  "outro": "Great Job!",
+  "outro_sub": "You counted<br>6 stars!",
+  "yt": {
+   "title": "Count to 6 with Stars! ⭐ Counting for Kids",
+   "description": "Let's count stars from 1 to 6! A fun counting video for toddlers and preschoolers. Count along with us!\n\n#counting #learnnumbers #kidslearning #preschool #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "counting for kids",
+    "learn numbers",
+    "count to 6",
+    "toddler learning",
+    "preschool",
+    "numbers for kids",
+    "stars"
+   ]
+  }
+ },
+ {
+  "id": "e002",
+  "type": "cards",
+  "theme": "sky",
+  "title": "ABC: A to E!",
+  "items": [
+   {
+    "big": "A",
+    "icon": "1f34e",
+    "sub": "A is for Apple"
+   },
+   {
+    "big": "B",
+    "icon": "26bd",
+    "sub": "B is for Ball"
+   },
+   {
+    "big": "C",
+    "icon": "1f431",
+    "sub": "C is for Cat"
+   },
+   {
+    "big": "D",
+    "icon": "1f986",
+    "sub": "D is for Duck"
+   },
+   {
+    "big": "E",
+    "icon": "1f95a",
+    "sub": "E is for Egg"
+   }
+  ],
+  "outro": "Great Job!",
+  "outro_sub": "You learned<br>A, B, C, D, E!",
+  "yt": {
+   "title": "Learn the Letters A, B, C, D, E! 🔤 ABC for Kids",
+   "description": "Learn the alphabet with fun pictures: A is for Apple, B is for Ball, C is for Cat, D is for Duck, E is for Egg.\n\n#kidslearning #preschool #toddlerlearning #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "abc for kids",
+    "alphabet",
+    "learn letters",
+    "phonics",
+    "preschool",
+    "toddler learning"
+   ]
+  }
+ },
+ {
+  "id": "e003",
+  "type": "cards",
+  "theme": "sky",
+  "title": "What Do Animals Say?",
+  "items": [
+   {
+    "big": "Cow",
+    "icon": "1f42e",
+    "sub": "The cow says<br>Moo!"
+   },
+   {
+    "big": "Dog",
+    "icon": "1f436",
+    "sub": "The dog says<br>Woof!"
+   },
+   {
+    "big": "Cat",
+    "icon": "1f431",
+    "sub": "The cat says<br>Meow!"
+   },
+   {
+    "big": "Duck",
+    "icon": "1f986",
+    "sub": "The duck says<br>Quack!"
+   }
+  ],
+  "outro": "Great Job!",
+  "outro_sub": "You know<br>animal sounds!",
+  "yt": {
+   "title": "What Do Animals Say? Moo! Woof! Meow! Quack! 🐾 Animal Sounds for Kids",
+   "description": "Learn animal sounds: the cow says Moo!, the dog says Woof!, the cat says Meow!, the duck says Quack!.\n\n#kidslearning #preschool #toddlerlearning #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "animal sounds",
+    "animals for kids",
+    "farm animals",
+    "preschool",
+    "toddler learning"
+   ]
+  }
+ },
+ {
+  "id": "e004",
+  "type": "cards",
+  "theme": "candy",
+  "title": "Learn Your Colours!",
+  "items": [
+   {
+    "big": "RED",
+    "color": "#e63946",
+    "icon": "1f34e",
+    "swatch": null,
+    "sub": "Red apple"
+   },
+   {
+    "big": "YELLOW",
+    "color": "#f4b400",
+    "icon": "1f34c",
+    "swatch": null,
+    "sub": "Yellow banana"
+   },
+   {
+    "big": "GREEN",
+    "color": "#2b9348",
+    "icon": "1f966",
+    "swatch": null,
+    "sub": "Green broccoli"
+   }
+  ],
+  "outro": "Great Job!",
+  "outro_sub": "You learned<br>Red, Yellow, Green!",
+  "yt": {
+   "title": "Learn Colours: Red, Yellow, Green! 🌈 Colours for Kids",
+   "description": "Learn colours with fun pictures: Red apple, Yellow banana, Green broccoli.\n\n#kidslearning #preschool #toddlerlearning #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "colors for kids",
+    "learn colours",
+    "colours",
+    "preschool",
+    "toddler learning"
+   ]
+  }
+ },
+ {
+  "id": "e005",
+  "type": "count",
+  "theme": "candy",
+  "icon": "1f388",
+  "n": 7,
+  "title": "Let's Count Balloons!",
+  "outro": "Great Job!",
+  "outro_sub": "You counted<br>7 balloons!",
+  "yt": {
+   "title": "Count to 7 with Balloons! 🎈 Counting for Kids",
+   "description": "Let's count balloons from 1 to 7! A fun counting video for toddlers and preschoolers. Count along with us!\n\n#counting #learnnumbers #kidslearning #preschool #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "counting for kids",
+    "learn numbers",
+    "count to 7",
+    "toddler learning",
+    "preschool",
+    "numbers for kids",
+    "balloons"
+   ]
+  }
+ },
+ {
+  "id": "e006",
+  "type": "cards",
+  "theme": "sky",
+  "title": "Things That Go!",
+  "items": [
+   {
+    "big": "Car",
+    "icon": "1f697",
+    "sub": "Beep beep!"
+   },
+   {
+    "big": "Bus",
+    "icon": "1f68c",
+    "sub": "The bus"
+   },
+   {
+    "big": "Train",
+    "icon": "1f682",
+    "sub": "Choo choo!"
+   },
+   {
+    "big": "Rocket",
+    "icon": "1f680",
+    "sub": "Blast off!"
+   }
+  ],
+  "outro": "Great Job!",
+  "outro_sub": "You know<br>things that go!",
+  "yt": {
+   "title": "Things That Go! 🚗🚂🚀 Vehicles for Kids",
+   "description": "Learn vehicle names: car, bus, train and rocket.\n\n#kidslearning #preschool #toddlerlearning #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "vehicles for kids",
+    "cars",
+    "trains",
+    "rockets",
+    "preschool"
+   ]
+  }
+ },
+ {
+  "id": "e007",
+  "type": "count",
+  "theme": "beach",
+  "icon": "1f41f",
+  "n": 5,
+  "title": "Let's Count Fish!",
+  "outro": "Great Job!",
+  "outro_sub": "You counted<br>5 fish!",
+  "yt": {
+   "title": "Count to 5 with Fish! 🐟 Counting for Kids",
+   "description": "Let's count fish from 1 to 5! A fun counting video for toddlers and preschoolers. Count along with us!\n\n#counting #learnnumbers #kidslearning #preschool #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "counting for kids",
+    "learn numbers",
+    "count to 5",
+    "toddler learning",
+    "preschool",
+    "numbers for kids",
+    "fish"
+   ]
+  }
+ },
+ {
+  "id": "e008",
+  "type": "cards",
+  "theme": "candy",
+  "title": "ABC: F to J!",
+  "items": [
+   {
+    "big": "F",
+    "icon": "1f41f",
+    "sub": "F is for Fish"
+   },
+   {
+    "big": "G",
+    "icon": "1f347",
+    "sub": "G is for Grapes"
+   },
+   {
+    "big": "H",
+    "icon": "1f40e",
+    "sub": "H is for Horse"
+   },
+   {
+    "big": "I",
+    "icon": "1f366",
+    "sub": "I is for Ice cream"
+   },
+   {
+    "big": "J",
+    "icon": "1f9c3",
+    "sub": "J is for Juice"
+   }
+  ],
+  "outro": "Great Job!",
+  "outro_sub": "You learned<br>F, G, H, I, J!",
+  "yt": {
+   "title": "Learn the Letters F, G, H, I, J! 🔤 ABC for Kids",
+   "description": "Learn the alphabet with fun pictures: F is for Fish, G is for Grapes, H is for Horse, I is for Ice cream, J is for Juice.\n\n#kidslearning #preschool #toddlerlearning #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "abc for kids",
+    "alphabet",
+    "learn letters",
+    "phonics",
+    "preschool",
+    "toddler learning"
+   ]
+  }
+ },
+ {
+  "id": "e009",
+  "type": "cards",
+  "theme": "sky",
+  "title": "What Do Animals Say?",
+  "items": [
+   {
+    "big": "Sheep",
+    "icon": "1f411",
+    "sub": "The sheep says<br>Baa!"
+   },
+   {
+    "big": "Pig",
+    "icon": "1f437",
+    "sub": "The pig says<br>Oink!"
+   },
+   {
+    "big": "Horse",
+    "icon": "1f40e",
+    "sub": "The horse says<br>Neigh!"
+   },
+   {
+    "big": "Chicken",
+    "icon": "1f414",
+    "sub": "The chicken says<br>Cluck!"
+   }
+  ],
+  "outro": "Great Job!",
+  "outro_sub": "You know<br>animal sounds!",
+  "yt": {
+   "title": "What Do Animals Say? Baa! Oink! Neigh! Cluck! 🐾 Animal Sounds for Kids",
+   "description": "Learn animal sounds: the sheep says Baa!, the pig says Oink!, the horse says Neigh!, the chicken says Cluck!.\n\n#kidslearning #preschool #toddlerlearning #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "animal sounds",
+    "animals for kids",
+    "farm animals",
+    "preschool",
+    "toddler learning"
+   ]
+  }
+ },
+ {
+  "id": "e010",
+  "type": "count",
+  "theme": "sky",
+  "icon": "1f697",
+  "n": 8,
+  "title": "Let's Count Cars!",
+  "outro": "Great Job!",
+  "outro_sub": "You counted<br>8 cars!",
+  "yt": {
+   "title": "Count to 8 with Cars! 🚗 Counting for Kids",
+   "description": "Let's count cars from 1 to 8! A fun counting video for toddlers and preschoolers. Count along with us!\n\n#counting #learnnumbers #kidslearning #preschool #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "counting for kids",
+    "learn numbers",
+    "count to 8",
+    "toddler learning",
+    "preschool",
+    "numbers for kids",
+    "cars"
+   ]
+  }
+ },
+ {
+  "id": "e011",
+  "type": "cards",
+  "theme": "sky",
+  "title": "Wild Animals!",
+  "items": [
+   {
+    "big": "Elephant",
+    "icon": "1f418",
+    "sub": "Big and grey"
+   },
+   {
+    "big": "Giraffe",
+    "icon": "1f992",
+    "sub": "A long neck"
+   },
+   {
+    "big": "Zebra",
+    "icon": "1f993",
+    "sub": "Black and white stripes"
+   },
+   {
+    "big": "Lion",
+    "icon": "1f981",
+    "sub": "Roar!"
+   }
+  ],
+  "outro": "Great Job!",
+  "outro_sub": "You met<br>wild animals!",
+  "yt": {
+   "title": "Meet Wild Animals! 🐘🦒🦓🦁 Animals for Kids",
+   "description": "Meet the elephant, giraffe, zebra and lion.\n\n#kidslearning #preschool #toddlerlearning #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "wild animals",
+    "animals for kids",
+    "safari",
+    "preschool"
+   ]
+  }
+ },
+ {
+  "id": "e012",
+  "type": "cards",
+  "theme": "sky",
+  "title": "Learn Your Colours!",
+  "items": [
+   {
+    "big": "ORANGE",
+    "color": "#f77f00",
+    "icon": "1f34a",
+    "swatch": null,
+    "sub": "Orange orange"
+   },
+   {
+    "big": "PURPLE",
+    "color": "#7b2cbf",
+    "icon": "1f347",
+    "swatch": null,
+    "sub": "Purple grapes"
+   },
+   {
+    "big": "BLUE",
+    "color": "#1d6fd6",
+    "icon": "1f433",
+    "swatch": null,
+    "sub": "Blue whale"
+   }
+  ],
+  "outro": "Great Job!",
+  "outro_sub": "You learned<br>Orange, Purple, Blue!",
+  "yt": {
+   "title": "Learn Colours: Orange, Purple, Blue! 🌈 Colours for Kids",
+   "description": "Learn colours with fun pictures: Orange orange, Purple grapes, Blue whale.\n\n#kidslearning #preschool #toddlerlearning #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "colors for kids",
+    "learn colours",
+    "colours",
+    "preschool",
+    "toddler learning"
+   ]
+  }
+ },
+ {
+  "id": "e013",
+  "type": "count",
+  "theme": "candy",
+  "icon": "1f33c",
+  "n": 6,
+  "title": "Let's Count Flowers!",
+  "outro": "Great Job!",
+  "outro_sub": "You counted<br>6 flowers!",
+  "yt": {
+   "title": "Count to 6 with Flowers! 🌼 Counting for Kids",
+   "description": "Let's count flowers from 1 to 6! A fun counting video for toddlers and preschoolers. Count along with us!\n\n#counting #learnnumbers #kidslearning #preschool #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "counting for kids",
+    "learn numbers",
+    "count to 6",
+    "toddler learning",
+    "preschool",
+    "numbers for kids",
+    "flowers"
+   ]
+  }
+ },
+ {
+  "id": "e014",
+  "type": "cards",
+  "theme": "candy",
+  "title": "Yummy Fruits!",
+  "items": [
+   {
+    "big": "Strawberry",
+    "icon": "1f353",
+    "sub": "Red and sweet"
+   },
+   {
+    "big": "Watermelon",
+    "icon": "1f349",
+    "sub": "Green outside, red inside"
+   },
+   {
+    "big": "Pineapple",
+    "icon": "1f34d",
+    "sub": "Spiky and sweet"
+   },
+   {
+    "big": "Cherries",
+    "icon": "1f352",
+    "sub": "Little and red"
+   }
+  ],
+  "outro": "Great Job!",
+  "outro_sub": "You know<br>fruits!",
+  "yt": {
+   "title": "Yummy Fruits! 🍓🍉🍍🍒 Fruit Names for Kids",
+   "description": "Learn fruit names: strawberry, watermelon, pineapple and cherries.\n\n#kidslearning #preschool #toddlerlearning #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "fruits for kids",
+    "fruit names",
+    "healthy food",
+    "preschool"
+   ]
+  }
+ },
+ {
+  "id": "e015",
+  "type": "count",
+  "theme": "night",
+  "icon": "1f680",
+  "n": 5,
+  "title": "Let's Count Rockets!",
+  "outro": "Great Job!",
+  "outro_sub": "You counted<br>5 rockets!",
+  "yt": {
+   "title": "Count to 5 with Rockets! 🚀 Counting for Kids",
+   "description": "Let's count rockets from 1 to 5! A fun counting video for toddlers and preschoolers. Count along with us!\n\n#counting #learnnumbers #kidslearning #preschool #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "counting for kids",
+    "learn numbers",
+    "count to 5",
+    "toddler learning",
+    "preschool",
+    "numbers for kids",
+    "rockets"
+   ]
+  }
+ },
+ {
+  "id": "e016",
+  "type": "cards",
+  "theme": "sky",
+  "title": "ABC: K to M!",
+  "items": [
+   {
+    "big": "K",
+    "icon": "1f511",
+    "sub": "K is for Key"
+   },
+   {
+    "big": "L",
+    "icon": "1f981",
+    "sub": "L is for Lion"
+   },
+   {
+    "big": "M",
+    "icon": "1f344",
+    "sub": "M is for Mushroom"
+   }
+  ],
+  "outro": "Great Job!",
+  "outro_sub": "You learned<br>K, L, M!",
+  "yt": {
+   "title": "Learn the Letters K, L, M! 🔤 ABC for Kids",
+   "description": "Learn the alphabet with fun pictures: K is for Key, L is for Lion, M is for Mushroom.\n\n#kidslearning #preschool #toddlerlearning #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "abc for kids",
+    "alphabet",
+    "learn letters",
+    "phonics",
+    "preschool",
+    "toddler learning"
+   ]
+  }
+ },
+ {
+  "id": "e017",
+  "type": "cards",
+  "theme": "night",
+  "title": "What Do Animals Say?",
+  "items": [
+   {
+    "big": "Lion",
+    "icon": "1f981",
+    "sub": "The lion says<br>Roar!"
+   },
+   {
+    "big": "Frog",
+    "icon": "1f438",
+    "sub": "The frog says<br>Ribbit!"
+   },
+   {
+    "big": "Owl",
+    "icon": "1f989",
+    "sub": "The owl says<br>Hoo hoo!"
+   },
+   {
+    "big": "Bee",
+    "icon": "1f41d",
+    "sub": "The bee says<br>Buzz!"
+   }
+  ],
+  "outro": "Great Job!",
+  "outro_sub": "You know<br>animal sounds!",
+  "yt": {
+   "title": "What Do Animals Say? Roar! Ribbit! Hoo hoo! Buzz! 🐾 Animal Sounds for Kids",
+   "description": "Learn animal sounds: the lion says Roar!, the frog says Ribbit!, the owl says Hoo hoo!, the bee says Buzz!.\n\n#kidslearning #preschool #toddlerlearning #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "animal sounds",
+    "animals for kids",
+    "farm animals",
+    "preschool",
+    "toddler learning"
+   ]
+  }
+ },
+ {
+  "id": "e018",
+  "type": "count",
+  "theme": "candy",
+  "icon": "1f353",
+  "n": 9,
+  "title": "Let's Count Strawberries!",
+  "outro": "Great Job!",
+  "outro_sub": "You counted<br>9 strawberries!",
+  "yt": {
+   "title": "Count to 9 with Strawberries! 🍓 Counting for Kids",
+   "description": "Let's count strawberries from 1 to 9! A fun counting video for toddlers and preschoolers. Count along with us!\n\n#counting #learnnumbers #kidslearning #preschool #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "counting for kids",
+    "learn numbers",
+    "count to 9",
+    "toddler learning",
+    "preschool",
+    "numbers for kids",
+    "strawberries"
+   ]
+  }
+ },
+ {
+  "id": "e019",
+  "type": "cards",
+  "theme": "beach",
+  "title": "Under the Sea!",
+  "items": [
+   {
+    "big": "Fish",
+    "icon": "1f41f",
+    "sub": "Swims in the sea"
+   },
+   {
+    "big": "Whale",
+    "icon": "1f433",
+    "sub": "Very, very big"
+   },
+   {
+    "big": "Shark",
+    "icon": "1f988",
+    "sub": "Sharp teeth"
+   },
+   {
+    "big": "Turtle",
+    "icon": "1f422",
+    "sub": "Has a shell"
+   }
+  ],
+  "outro": "Great Job!",
+  "outro_sub": "You explored<br>the sea!",
+  "yt": {
+   "title": "Under the Sea! 🐟🐳🦈🐢 Sea Animals for Kids",
+   "description": "Meet sea animals: fish, whale, shark and turtle.\n\n#kidslearning #preschool #toddlerlearning #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "sea animals",
+    "ocean animals",
+    "animals for kids",
+    "preschool"
+   ]
+  }
+ },
+ {
+  "id": "e020",
+  "type": "count",
+  "theme": "beach",
+  "icon": "1f986",
+  "n": 4,
+  "title": "Let's Count Ducks!",
+  "outro": "Great Job!",
+  "outro_sub": "You counted<br>4 ducks!",
+  "yt": {
+   "title": "Count to 4 with Ducks! 🦆 Counting for Kids",
+   "description": "Let's count ducks from 1 to 4! A fun counting video for toddlers and preschoolers. Count along with us!\n\n#counting #learnnumbers #kidslearning #preschool #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "counting for kids",
+    "learn numbers",
+    "count to 4",
+    "toddler learning",
+    "preschool",
+    "numbers for kids",
+    "ducks"
+   ]
+  }
+ },
+ {
+  "id": "e021",
+  "type": "cards",
+  "theme": "candy",
+  "title": "ABC: R to T!",
+  "items": [
+   {
+    "big": "R",
+    "icon": "1f430",
+    "sub": "R is for Rabbit"
+   },
+   {
+    "big": "S",
+    "icon": "1f40d",
+    "sub": "S is for Snake"
+   },
+   {
+    "big": "T",
+    "icon": "1f422",
+    "sub": "T is for Turtle"
+   }
+  ],
+  "outro": "Great Job!",
+  "outro_sub": "You learned<br>R, S, T!",
+  "yt": {
+   "title": "Learn the Letters R, S, T! 🔤 ABC for Kids",
+   "description": "Learn the alphabet with fun pictures: R is for Rabbit, S is for Snake, T is for Turtle.\n\n#kidslearning #preschool #toddlerlearning #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "abc for kids",
+    "alphabet",
+    "learn letters",
+    "phonics",
+    "preschool",
+    "toddler learning"
+   ]
+  }
+ },
+ {
+  "id": "e022",
+  "type": "cards",
+  "theme": "sky",
+  "title": "Yummy Vegetables!",
+  "items": [
+   {
+    "big": "Carrot",
+    "icon": "1f955",
+    "sub": "Orange and crunchy"
+   },
+   {
+    "big": "Broccoli",
+    "icon": "1f966",
+    "sub": "Like a little tree"
+   },
+   {
+    "big": "Tomato",
+    "icon": "1f345",
+    "sub": "Round and red"
+   }
+  ],
+  "outro": "Great Job!",
+  "outro_sub": "You know<br>vegetables!",
+  "yt": {
+   "title": "Yummy Vegetables! 🥕🥦🍅 Veggies for Kids",
+   "description": "Learn vegetable names: carrot, broccoli and tomato.\n\n#kidslearning #preschool #toddlerlearning #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "vegetables for kids",
+    "healthy food",
+    "veggies",
+    "preschool"
+   ]
+  }
+ },
+ {
+  "id": "e023",
+  "type": "count",
+  "theme": "sky",
+  "icon": "26bd",
+  "n": 10,
+  "title": "Let's Count Balls!",
+  "outro": "Great Job!",
+  "outro_sub": "You counted<br>10 balls!",
+  "yt": {
+   "title": "Count to 10 with Balls! ⚽ Counting for Kids",
+   "description": "Let's count balls from 1 to 10! A fun counting video for toddlers and preschoolers. Count along with us!\n\n#counting #learnnumbers #kidslearning #preschool #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "counting for kids",
+    "learn numbers",
+    "count to 10",
+    "toddler learning",
+    "preschool",
+    "numbers for kids",
+    "balls"
+   ]
+  }
+ },
+ {
+  "id": "e024",
+  "type": "cards",
+  "theme": "beach",
+  "title": "More Things That Go!",
+  "items": [
+   {
+    "big": "Bike",
+    "icon": "1f6b2",
+    "sub": "Ring ring!"
+   },
+   {
+    "big": "Boat",
+    "icon": "26f5",
+    "sub": "Sails on water"
+   },
+   {
+    "big": "Helicopter",
+    "icon": "1f681",
+    "sub": "Flies up high"
+   }
+  ],
+  "outro": "Great Job!",
+  "outro_sub": "You know<br>things that go!",
+  "yt": {
+   "title": "Bike, Boat, Helicopter! 🚲⛵🚁 Vehicles for Kids",
+   "description": "Learn vehicle names: bike, boat and helicopter.\n\n#kidslearning #preschool #toddlerlearning #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "vehicles for kids",
+    "boats",
+    "helicopter",
+    "preschool"
+   ]
+  }
+ },
+ {
+  "id": "e025",
+  "type": "count",
+  "theme": "sky",
+  "icon": "1f98b",
+  "n": 6,
+  "title": "Let's Count Butterflies!",
+  "outro": "Great Job!",
+  "outro_sub": "You counted<br>6 butterflies!",
+  "yt": {
+   "title": "Count to 6 with Butterflies! 🦋 Counting for Kids",
+   "description": "Let's count butterflies from 1 to 6! A fun counting video for toddlers and preschoolers. Count along with us!\n\n#counting #learnnumbers #kidslearning #preschool #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "counting for kids",
+    "learn numbers",
+    "count to 6",
+    "toddler learning",
+    "preschool",
+    "numbers for kids",
+    "butterflies"
+   ]
+  }
+ },
+ {
+  "id": "e026",
+  "type": "cards",
+  "theme": "candy",
+  "title": "More Wild Animals!",
+  "items": [
+   {
+    "big": "Tiger",
+    "icon": "1f42f",
+    "sub": "Orange with stripes"
+   },
+   {
+    "big": "Hippo",
+    "icon": "1f99b",
+    "sub": "Loves the water"
+   },
+   {
+    "big": "Penguin",
+    "icon": "1f427",
+    "sub": "Lives in the cold"
+   },
+   {
+    "big": "Fox",
+    "icon": "1f98a",
+    "sub": "Fluffy tail"
+   }
+  ],
+  "outro": "Great Job!",
+  "outro_sub": "You met<br>wild animals!",
+  "yt": {
+   "title": "Tiger, Hippo, Penguin, Fox! 🐯🦛🐧🦊 Animals for Kids",
+   "description": "Meet the tiger, hippo, penguin and fox.\n\n#kidslearning #preschool #toddlerlearning #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "wild animals",
+    "animals for kids",
+    "zoo animals",
+    "preschool"
+   ]
+  }
+ },
+ {
+  "id": "e027",
+  "type": "count",
+  "theme": "sky",
+  "icon": "1f34c",
+  "n": 6,
+  "title": "Let's Count Bananas!",
+  "outro": "Great Job!",
+  "outro_sub": "You counted<br>6 bananas!",
+  "yt": {
+   "title": "Count to 6 with Bananas! 🍌 Counting for Kids",
+   "description": "Let's count bananas from 1 to 6! A fun counting video for toddlers and preschoolers. Count along with us!\n\n#counting #learnnumbers #kidslearning #preschool #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "counting for kids",
+    "learn numbers",
+    "count to 6",
+    "toddler learning",
+    "preschool",
+    "numbers for kids",
+    "bananas"
+   ]
+  }
+ },
+ {
+  "id": "e028",
+  "type": "count",
+  "theme": "candy",
+  "icon": "1f9f8",
+  "n": 4,
+  "title": "Let's Count Teddy Bears!",
+  "outro": "Great Job!",
+  "outro_sub": "You counted<br>4 teddy bears!",
+  "yt": {
+   "title": "Count to 4 with Teddy Bears! 🧸 Counting for Kids",
+   "description": "Let's count teddy bears from 1 to 4! A fun counting video for toddlers and preschoolers. Count along with us!\n\n#counting #learnnumbers #kidslearning #preschool #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "counting for kids",
+    "learn numbers",
+    "count to 4",
+    "toddler learning",
+    "preschool",
+    "numbers for kids",
+    "teddy bears"
+   ]
+  }
+ },
+ {
+  "id": "e029",
+  "type": "cards",
+  "theme": "night",
+  "title": "Dinosaurs!",
+  "items": [
+   {
+    "big": "Long Neck",
+    "icon": "1f995",
+    "sub": "A very long neck"
+   },
+   {
+    "big": "T-Rex",
+    "icon": "1f996",
+    "sub": "Big and loud: Roar!"
+   }
+  ],
+  "outro": "Great Job!",
+  "outro_sub": "You met<br>dinosaurs!",
+  "yt": {
+   "title": "Meet the Dinosaurs! 🦕🦖 Dinosaurs for Kids",
+   "description": "Meet two dinosaurs: a long-neck dinosaur and the T-Rex.\n\n#kidslearning #preschool #toddlerlearning #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "dinosaurs for kids",
+    "dinosaur",
+    "t rex",
+    "preschool"
+   ]
+  }
+ },
+ {
+  "id": "e030",
+  "type": "count",
+  "theme": "beach",
+  "icon": "1f422",
+  "n": 5,
+  "title": "Let's Count Turtles!",
+  "outro": "Great Job!",
+  "outro_sub": "You counted<br>5 turtles!",
+  "yt": {
+   "title": "Count to 5 with Turtles! 🐢 Counting for Kids",
+   "description": "Let's count turtles from 1 to 5! A fun counting video for toddlers and preschoolers. Count along with us!\n\n#counting #learnnumbers #kidslearning #preschool #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "counting for kids",
+    "learn numbers",
+    "count to 5",
+    "toddler learning",
+    "preschool",
+    "numbers for kids",
+    "turtles"
+   ]
+  }
+ },
+ {
+  "id": "e031",
+  "type": "count",
+  "theme": "candy",
+  "icon": "1f381",
+  "n": 7,
+  "title": "Let's Count Presents!",
+  "outro": "Great Job!",
+  "outro_sub": "You counted<br>7 presents!",
+  "yt": {
+   "title": "Count to 7 with Presents! 🎁 Counting for Kids",
+   "description": "Let's count presents from 1 to 7! A fun counting video for toddlers and preschoolers. Count along with us!\n\n#counting #learnnumbers #kidslearning #preschool #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "counting for kids",
+    "learn numbers",
+    "count to 7",
+    "toddler learning",
+    "preschool",
+    "numbers for kids",
+    "presents"
+   ]
+  }
+ },
+ {
+  "id": "e032",
+  "type": "count",
+  "theme": "night",
+  "icon": "1f319",
+  "n": 3,
+  "title": "Let's Count Moons!",
+  "outro": "Great Job!",
+  "outro_sub": "You counted<br>3 moons!",
+  "yt": {
+   "title": "Count to 3 with Moons! 🌙 Counting for Kids",
+   "description": "Let's count moons from 1 to 3! A fun counting video for toddlers and preschoolers. Count along with us!\n\n#counting #learnnumbers #kidslearning #preschool #shorts\n\nIllustrations: Twemoji (CC-BY 4.0).",
+   "tags": [
+    "counting for kids",
+    "learn numbers",
+    "count to 3",
+    "toddler learning",
+    "preschool",
+    "numbers for kids",
+    "moons"
+   ]
+  }
+ }
+]

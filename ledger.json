@@ -1,0 +1,14 @@
+{
+ "slots_taipei": [
+  "09:00",
+  "13:00",
+  "19:00"
+ ],
+ "done": [
+  {
+   "id": "e000-count-apples-5",
+   "publish_at": "2026-11-27T16:25",
+   "metricool_id": 444052577
+  }
+ ]
+}
