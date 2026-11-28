@@ -1,114 +1,119 @@
 {
- "slots_taipei": [
-  "09:00",
-  "13:00",
-  "19:00"
- ],
- "done": [
-  {
-   "id": "e000-count-apples-5",
-   "publish_at": "2026-11-27T16:25",
-   "metricool_id": 444052577
-  },
-  {
-   "id": "e001",
-   "publish_at": "2026-11-27T16:50",
-   "metricool_id": 444067402
-  },
-  {
-   "id": "e002",
-   "publish_at": "2026-11-27T17:20",
-   "metricool_id": 444067420
-  },
-  {
-   "id": "e003",
-   "publish_at": "2026-11-27T17:50",
-   "metricool_id": 444067439
-  },
-  {
-   "id": "e004",
-   "publish_at": "2026-11-27T18:20",
-   "metricool_id": 444067447
-  },
-  {
-   "id": "e005",
-   "publish_at": "2026-11-27T18:50",
-   "metricool_id": 444067462
-  },
-  {
-   "id": "e006",
-   "publish_at": "2026-11-27T19:20",
-   "metricool_id": 444067474
-  },
-  {
-   "id": "e007",
-   "publish_at": "2026-11-28T09:00",
-   "metricool_id": 444097212
-  },
-  {
-   "id": "e008",
-   "publish_at": "2026-11-28T13:00",
-   "metricool_id": 444158581
-  },
-  {
-   "id": "e009",
-   "publish_at": "2026-11-28T19:00",
-   "metricool_id": 444221279
-  },
-  {
-   "id": "e010",
-   "publish_at": "2026-11-29T09:00",
-   "metricool_id": 444288418
-  },
-  {
-   "id": "e011",
-   "publish_at": "2026-11-29T13:00",
-   "metricool_id": 444359236
-  },
-  {
-   "id": "e012",
-   "publish_at": "2026-11-29T19:00",
-   "metricool_id": 444430446
-  },
-  {
-   "id": "e013",
-   "publish_at": "2026-11-30T09:00",
-   "metricool_id": 444502012
-  },
-  {
-   "id": "e014",
-   "publish_at": "2026-11-30T13:00",
-   "metricool_id": 444572900
-  },
-  {
-   "id": "e015",
-   "publish_at": "2026-11-30T19:00",
-   "metricool_id": 444640013
-  },
-  {
-   "id": "e016",
-   "publish_at": "2026-12-01T09:00",
-   "metricool_id": 444702476
-  },
-  {
-   "id": "e017",
-   "publish_at": "2026-12-01T13:00",
-   "metricool_id": 444760485
-  },
-  {
-   "id": "e018",
-   "publish_at": "2026-12-01T19:00",
-   "metricool_id": 444817224
-  },
-  {
-   "id": "e019",
-   "publish_at": "2026-12-02T09:00",
-   "metricool_id": 445266516
-  },
-  {
-   "id": "e020",
-   "publish_at": "2026-12-02T13:00",
-   "metricool_id": 445301466
-  }
- ]
+  "slots_taipei": [
+    "09:00",
+    "13:00",
+    "19:00"
+  ],
+  "done": [
+    {
+      "id": "e000-count-apples-5",
+      "publish_at": "2026-11-27T16:25",
+      "metricool_id": 444052577
+    },
+    {
+      "id": "e001",
+      "publish_at": "2026-11-27T16:50",
+      "metricool_id": 444067402
+    },
+    {
+      "id": "e002",
+      "publish_at": "2026-11-27T17:20",
+      "metricool_id": 444067420
+    },
+    {
+      "id": "e003",
+      "publish_at": "2026-11-27T17:50",
+      "metricool_id": 444067439
+    },
+    {
+      "id": "e004",
+      "publish_at": "2026-11-27T18:20",
+      "metricool_id": 444067447
+    },
+    {
+      "id": "e005",
+      "publish_at": "2026-11-27T18:50",
+      "metricool_id": 444067462
+    },
+    {
+      "id": "e006",
+      "publish_at": "2026-11-27T19:20",
+      "metricool_id": 444067474
+    },
+    {
+      "id": "e007",
+      "publish_at": "2026-11-28T09:00",
+      "metricool_id": 444097212
+    },
+    {
+      "id": "e008",
+      "publish_at": "2026-11-28T13:00",
+      "metricool_id": 444158581
+    },
+    {
+      "id": "e009",
+      "publish_at": "2026-11-28T19:00",
+      "metricool_id": 444221279
+    },
+    {
+      "id": "e010",
+      "publish_at": "2026-11-29T09:00",
+      "metricool_id": 444288418
+    },
+    {
+      "id": "e011",
+      "publish_at": "2026-11-29T13:00",
+      "metricool_id": 444359236
+    },
+    {
+      "id": "e012",
+      "publish_at": "2026-11-29T19:00",
+      "metricool_id": 444430446
+    },
+    {
+      "id": "e013",
+      "publish_at": "2026-11-30T09:00",
+      "metricool_id": 444502012
+    },
+    {
+      "id": "e014",
+      "publish_at": "2026-11-30T13:00",
+      "metricool_id": 444572900
+    },
+    {
+      "id": "e015",
+      "publish_at": "2026-11-30T19:00",
+      "metricool_id": 444640013
+    },
+    {
+      "id": "e016",
+      "publish_at": "2026-12-01T09:00",
+      "metricool_id": 444702476
+    },
+    {
+      "id": "e017",
+      "publish_at": "2026-12-01T13:00",
+      "metricool_id": 444760485
+    },
+    {
+      "id": "e018",
+      "publish_at": "2026-12-01T19:00",
+      "metricool_id": 444817224
+    },
+    {
+      "id": "e019",
+      "publish_at": "2026-12-02T09:00",
+      "metricool_id": 445266516
+    },
+    {
+      "id": "e020",
+      "publish_at": "2026-12-02T13:00",
+      "metricool_id": 445301466
+    },
+    {
+      "id": "e021",
+      "publish_at": "2026-12-02T19:00",
+      "metricool_id": 445341742
+    }
+  ]
 }
